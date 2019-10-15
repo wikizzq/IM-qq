@@ -1,1 +1,4 @@
 first time using git
+
+select * from mysql.user
+update mysql.user set password="123456" where user="root";
